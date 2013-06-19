@@ -7,5 +7,5 @@ the argument order.
 var leftpad = require('leftpad');
 
 leftpad(5, 10);
-'0000000005
+'0000000005'
 ```
