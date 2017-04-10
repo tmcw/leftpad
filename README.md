@@ -1,5 +1,7 @@
 ## leftpad
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/leftpad.svg)](https://greenkeeper.io/)
+
 Like the [pad module](https://github.com/wdavidw/node-pad), except I'll remember
 the argument order.
 
