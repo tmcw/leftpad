@@ -4,7 +4,7 @@
   "description": "left pad numbers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": "https://github.com/tmcw/leftpad.git",
   "keywords": [
@@ -13,7 +13,13 @@
     "formatting",
     "format"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "Tom MacWright <tom@macwright.org>",
-  "license": "BSD",
-  "readmeFilename": "README.md"
+  "license": "BSD-3-Clause",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "jsverify": "^0.8.2"
+  }
 }
