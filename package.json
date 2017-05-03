@@ -1,6 +1,6 @@
 {
   "name": "leftpad",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "left pad numbers",
   "main": "index.js",
   "scripts": {
